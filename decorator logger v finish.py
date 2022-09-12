@@ -29,12 +29,6 @@ def logger (path_):
         return logger2
     return logger1
 
-
-
-
-
-
-
 @logger('D:\\Олег\\0 Python\\script\\log.txt')
 #Функция преобразования строки инградиента в словарь
 def get_shop_list_by_dishes(dishes, person_count):
