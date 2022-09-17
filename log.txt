@@ -1,7 +1,0 @@
-2022-09-11 19:41:06.540671
-Имя функции: 
-<function get_shop_list_by_dishes at 0x030DAC90>
-Аргументы функции: 
-['Омлет', 'Запеченный картофель'];2;
-Возвращаемое значение функции: 
-[{'ingredient_name': 'Яйцо', 'quantity': 4, 'measure': 'шт.'}, {'ingredient_name': 'Молоко', 'quantity': 200, 'measure': 'мл'}, {'ingredient_name': 'Помидор', 'quantity': 4, 'measure': 'шт'}, {'ingredient_name': 'Картофель', 'quantity': 2, 'measure': 'кг'}, {'ingredient_name': 'Чеснок', 'quantity': 6, 'measure': 'зубч'}, {'ingredient_name': 'Сыр гауда', 'quantity': 200, 'measure': 'г'}]
